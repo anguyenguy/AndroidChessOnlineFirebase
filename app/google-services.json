@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "11683513112",
+    "firebase_url": "https://chinesechessandroid.firebaseio.com",
+    "project_id": "chinesechessandroid",
+    "storage_bucket": "chinesechessandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11683513112:android:658bdc249ed38436",
+        "android_client_info": {
+          "package_name": "com.nhq.berry.chinesechessonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11683513112-mle5d9ksqqei9glv7bsb9r663gf9id7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC0SvK4O_NrbZMoKhsZ2aHkf34ribkJTU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
